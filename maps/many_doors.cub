@@ -1,0 +1,13 @@
+NO ./assets/metal_wall.xpm
+EA ./assets/portal_steel_wall.xpm
+WE ./assets/black_wall.xpm
+SO ./assets/gray_brick_wall_2.xpm
+
+C 51,51,51
+F 153,153,153
+
+11111111
+111D1111
+11DND111
+111D1111
+11111111

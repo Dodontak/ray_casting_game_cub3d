@@ -1,0 +1,7 @@
+cub3d
+/objs
+*.o
+.DS*
+*.a
+!libmlx.a
+*.txt
